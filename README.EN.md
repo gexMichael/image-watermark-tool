@@ -4,7 +4,7 @@ Image Watermark Tool is an open-source project that allows users to add watermar
 
 👉 [Image Watermark Tool](https://watermark.aicompasspro.com)
 
-[简体中文](https://github.com/unilei/image-watermark-tool/blob/master/README.md) | English
+English | [简体中文](https://github.com/gexMichael/image-watermark-tool/blob/master/README.CN.md) | [正體中文](https://github.com/gexMichael/image-watermark-tool/blob/master/README.md)
 
 ### Quick Start
 
