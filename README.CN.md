@@ -2,7 +2,7 @@
 Image Watermark Tool 是一个开源项目，用户可以在本地设备上给自己的图片（如身份证、驾照、护照等）添加水印，无需任何网络连接，并具有轻松的一键网站部署功能。
 👉 [Image Watermark Tool](https://watermark.aicompasspro.com)
 
-[English](https://github.com/unilei/image-watermark-tool/blob/master/README.EN.md) | 简体中文
+[English](https://github.com/gexMichael/image-watermark-tool/blob/master/README.EN.md) | 简体中文 | [正體中文](https://github.com/gexMichael/image-watermark-tool/blob/master/README.TW.md)
 
 ## 快速开始
 
