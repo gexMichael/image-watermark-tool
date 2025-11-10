@@ -1,0 +1,16 @@
+{
+  "websiteName":  "圖片浮水印打碼工具",
+  "download": "下載",
+  "watermarkText": "浮水印文字",
+  "watermarkColor": "浮水印顏色",
+  "watermarkOpacity": "浮水印透明度",
+  "watermarkSpacing": "浮水印間距",
+  "watermarkSize": "浮水印大小",
+  "watermarkAngle": "浮水印傾斜角度",
+  "websiteDesc": "我們提供一種安全的方法，讓您可以在本地設備上為您的圖片添加浮水印，無需任何網路連接。這是保護您敏感證件（如身份證、駕照、護照等）隱私的理想選擇。",
+  "watermarkTextPlaceholder": "僅供申請協會發起人驗證使用",
+  "yourImageWillNotBeSentToAnyServer": "您的圖像不會發送到任何伺服器。 所有的操作都是在本地流覽器中完成的。",
+  "imageFullyCoveredTheWatermark": "浮水印鋪滿整張圖片",
+  "watermarkleftright": "浮水印位置（左右）",
+  "watermarktopbottom": "浮水印位置（上下）"
+}
