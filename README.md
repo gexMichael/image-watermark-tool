@@ -2,12 +2,12 @@
 Image Watermark Tool 是一個開源項目，使用者可以在本地設備上給自己的圖片（如身份證、駕照、護照等）添加浮水印，無需任何網路連接，並具有輕鬆的一鍵網站部署功能。
 👉 [Image Watermark Tool](https://watermark.aicompasspro.com)
 
-[English](https://github.com/unilei/image-watermark-tool/blob/master/README.EN.md) | [簡體中文](https://github.com/unilei/image-watermark-tool/blob/master/README.CN.md) | 正體中文
+[English](https://github.com/gexMichael/image-watermark-tool/blob/master/README.EN.md) | [简体中文](https://github.com/gexMichael/image-watermark-tool/blob/master/README.CN.md) | 正體中文
 
 ## 快速開始
 
 ### 在 Vercel 上部署
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/unilei/image-watermark-tool.git&project-name=image-watermark-tool&repository-name=image-watermark-tool)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/gexMichael/image-watermark-tool.git&project-name=image-watermark-tool&repository-name=image-watermark-tool)
 
 ### 在 Vercel 上手動部署 操作方法
 
@@ -21,7 +21,7 @@ Image Watermark Tool 是一個開源項目，使用者可以在本地設備上�
 ### 1. 克隆項目
 
 ```bash
-git clone https://github.com/unilei/image-watermark-tool.git
+git clone https://github.com/gexMichael/image-watermark-tool.git
 ```
 
 ### 2. 安裝依賴
